@@ -1,0 +1,24 @@
+PLAN D'ACTION COMMERCIAL ET MARKETING 2026,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+PROBLÉMATIQUE IDENTIFIÉE,"Baisse de la satisfaction client (-15% en 2025) : Impact sur le taux de rétention et la croissance du chiffre d'affaires",,,,,,,,,,,
+,,,,,,,,,,,,,
+DATE DU JOUR:,=AUJOURD'HUI(),,,,,,,,,,,
+,,,,,,,,,,,,,
+PLAN D'ACTION AVEC INDICATEURS,,,,,,,,,,,,,
+#,OBJECTIF GLOBAL,SOUS OBJECTIF,ACTION À MENER,RESPONSABLE,RESSOURCES,DATE BUT,INDICATEUR,ATTEINTE OBJECTIF,RÉSULTAT,TYPE OBJECTIF,% ÉCART OBJECTIF,ACTION CORRECTIVE À METTRE EN PLACE,OBJECTIF ATTENDU
+1,Améliorer satisfaction,Augmenter NPS,Mettre en place programme fidélité client,Commercial,Budget 50K€,31/12/2026,NPS (Net Promoter Score),=D6/E6*100,75,Qualitatif,,Renforcer programme récompenses,70
+2,Améliorer satisfaction,Réduire délais,Optimiser processus livraison,Logistique,Outils IT 20K€,31/12/2026,Taux service (%),=F6/E6*100,98,Quantitatif,=((F6-E6)/E6)*100,Investir dans automatisation,95
+3,Réduire réclamations,Baisse réclamations,Former équipe support client,Ressources,Formation 15K€,30/06/2026,Taux satisfaction support,=H6/G6*100,92,Qualitatif,,Augmenter effectif support,85
+4,Croissance CA,Augmenter revenus,Lancer nouvelle offre produit,Marketing,Budget 30K€,31/12/2026,Chiffre affaires additionnel (€),=J6/I6*100,580000,Quantitatif,=((J6-I6)/I6)*100,Ajuster pricing stratégie,500000
+,,,,,,,,,,,,,
+SYNTHÈSE DES RÉSULTATS,,,,,,,,,,,,,
+Indicateur,Objectif,Résultat,Atteinte,Écart,Statut,,,,,,,
+NPS,70,75,107%,N/A,✅ Dépassé,,,,,,,
+Taux service,95%,98%,103%,+3%,✅ Dépassé,,,,,,,
+Satisfaction support,85%,92%,108%,N/A,✅ Dépassé,,,,,,,
+CA additionnel,500000€,580000€,116%,+16%,✅ Dépassé,,,,,,,
+,,,,,,,,,,,,,
+NOTES IMPORTANTES,,,,,,,,,,,,,
+✅ Tous les objectifs sont atteints ou dépassés → Performance positive,,,,,,,,,,,
+✅ Aucun écart critique (< -20%) → Pas d'action corrective urgente,,,,,,,,,,,
+✅ Écarts quantitatifs positifs → Investissements rentables,,,,,,,,,,,
